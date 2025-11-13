@@ -280,7 +280,7 @@ User Testing: Validate structure and usability with real users.
 | NIWATAHO SARAPHINA        | 2023/BSE/114/PS  |
 | TUHEIRWE JOSHUA            | 2023/BSE/144/PS  |
 ### KEY ASPECTS
-Advantages and disadvantages of markup languages
-Types of markup languages
-How single source publishing works
-advantanges and disadvantages of single source publishing
+Advantages and disadvantages of markup languages.
+Types of markup languages.
+How single-source publishing works.
+Advantages and disadvantages of single-source publishing.
