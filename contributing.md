@@ -272,3 +272,15 @@ User Testing: Validate structure and usability with real users.
 - Types of documentation.
 - Copyright and licensing.
 - Standards and Controls.
+- ####  Group 10: MARKUP LANGUAGES AND SINGLE SOURCE PUBLISHING
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| NIWOMURIISA GRACE     | 2023/BSE/162/PS  |
+| NIWENSIIMA SHIAN          | 2023/BSE/115/PS  |
+| NIWATAHO SARAPHINA        | 2023/BSE/114/PS  |
+| TUHEIRWE JOSHUA            | 2023/BSE/144/PS  |
+### KEY ASPECTS
+Advantages and disadvantages of markup languages
+Types of markup languages
+How single source publishing works
+advantanges and disadvantages of single source publishing
