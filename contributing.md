@@ -91,6 +91,70 @@ Key international bodies such as ISO, IEC, and IEEE define these standards.
 
 - Safety and security through compliance and best practices
 
+---
 
+### Models of Document Control
+1. **Cloud Editors:**  
+   - Tools like *Google Docs* and *Office 365* enable real-time collaboration and are user-friendly for non-technical contributors.  
 
+2. **Docs-as-Code:**  
+   - Uses *Markdown + Git* for traceability, continuous integration, and version publishing.  
+
+3. **Hybrid Model:**  
+   - Draft in cloud → convert → finalize in Git for structured workflows.
+
+---
+
+### Document Control vs. Management vs. File Sharing
+| **Aspect** | **Document Control** | **Document Management** | **File Sharing** |
+|-------------|----------------------|--------------------------|------------------|
+| **Focus** | Accuracy & Traceability | Organization & Storage | Simple Access |
+| **Tools** | Git, DVC, Liquibase | SharePoint, Confluence | Google Drive, Dropbox |
+| **Use Case** | Regulated environments, audits | Team collaboration | Quick file exchange |
+
+---
+
+### Key Terms
+- **Version Control:** Tracking and managing changes to documents or code.  
+- **Traceability:** Ability to follow the history of each change.  
+- **Docs-as-Code:** Treating documentation with the same rigor as software code.  
+- **Collaboration Tools:** Systems that enable real-time co-authoring and review.  
+
+---
+
+### Summary
+Collaboration and Document Control are vital for:
+- **Consistency** in team output.  
+- **Accountability** through version tracking.  
+- **Efficiency** in managing updates and reviews.  
+- **Compliance** with organizational standards.  
+
+Together, they transform documentation from chaos into a controlled, auditable, and collaborative process.
+
+## Group 15: Editing, Proofreading & Quality Assurance in Technical Documentation
+
+**Topic:**  
+Our presentation explored the essential processes involved in maintaining high-quality technical documentation. We emphasized the three levels of editing—**developmental editing**, **copyediting**, and **proofreading**—and how each contributes to clarity, consistency, and accuracy. Additionally, we discussed the significance of navigational elements like glossaries, indexes, and tables of contents (TOCs), as well as the critical role of Subject Matter Experts (SMEs) and quality assurance tools.
+
+---
+
+### 🧩 Key Aspects Covered
+- **Three Levels of Editing:** Developmental, Copyediting, and Proofreading.  
+- **Navigational Elements:** Glossaries, Indexes, and Tables of Contents for better document usability.  
+- **Technical Accuracy:** The importance of Subject Matter Expert (SME) reviews.  
+- **Tools & Best Practices:** Using tools such as Grammarly, ProWritingAid, and Markdownlint to maintain consistency and accuracy.  
+- **Quality Assurance:** Ensuring professional, polished, and error-free documentation ready for publication.  
+
+---
+
+### 👥 Group Members
+
+| **Name**              | **Registration Number** |
+|------------------------|-------------------------|
+| Kamukama Osbert        | 2023/BSE/058/PS |
+| Ahebwa Faith           | 2023/BSE/006/PS |
+| Kyarimanya Davis       | 2023/BSE/070/PS |
+| Kihembo Daniel         | 2023/BSE/066/PS |
+| Tindyebwa Ignatious    | 2023/BSE/143/PS |
+| Bwambale Martin        | 2023/BSE/042/PS |
 
